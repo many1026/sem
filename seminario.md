@@ -1,50 +1,54 @@
 # El Derecho como Herramienta y los Derechos Humanos
 
-## Uso del Derecho en Guerras
-- El Derecho puede ser usado como un arma en situaciones de conflicto, como se evidencia en la Segunda Guerra Mundial y los juicios que siguieron.
+## Conceptos Fundamentales
+### Definición y Naturaleza de los Derechos Humanos
+- Los derechos humanos son principios universales que garantizan la dignidad, libertad y equidad para todos.
+  
+### Qué es una Constitución
+- Documento supremo que define la estructura política y legal de un país.
 
-## Dignidad Humana según Kant
-- Immanuel Kant abordó la dignidad humana en su filosofía, destacando su importancia en el contexto de los derechos humanos.
+### Definición de Constitución en los Estados Unidos Mexicanos
+- En México, la Constitución establece los derechos humanos reconocidos en ella y en tratados internacionales.
 
-## Positivización de Derechos Humanos
-- Cuando los derechos humanos se "positivizan", significa que han sido publicados y han pasado por un proceso de reconocimiento legal.
+## Aplicación y Protección de los Derechos Humanos
+### Uso del Derecho en Conflictos Bélicos
+- El Derecho como arma estratégica en guerras, ejemplificado en la Segunda Guerra Mundial.
 
-## Definición de Derechos Humanos
-- Los derechos humanos son principios fundamentales, no reglas, y suelen estar contenidos en una constitución con el propósito de proteger a los seres humanos.
+### Positivización de Derechos Humanos: Un Proceso de Legalización
+- Transformación de conceptos éticos a normativas legales concretas.
 
-## Qué es una Constitución
-- Una constitución es un pacto jurídico y político que establece las bases legales de un país.
+### Inconstitucionalidad: Un Desafío Legal
+- Concepto de inconstitucionalidad cuando leyes o políticas contradicen la constitución.
 
-## Inconstitucionalidad
-- Violar la constitución constituye una inconstitucionalidad, y es un tema importante en el contexto legal.
+### Principios de Legalidad en el Sistema Jurídico
+- Principio de que todas las acciones deben basarse en leyes preexistentes.
 
-## Principios de Legalidad
-- Los principios de legalidad implican que todas las acciones deben estar estipuladas y aplican a gobernantes y funcionarios.
+### Seguridad Jurídica: Un Pilar del Estado de Derecho
+- Garantía de aplicación consistente y previsible de las leyes.
 
-## Seguridad Jurídica
-- La seguridad jurídica se refiere a la certeza de que se cumplirán las reglas en cuanto a la existencia de legalidad.
+## Perspectivas Filosóficas y Evolución
+### La Perspectiva de Kant sobre la Dignidad Humana
+- Kant y la dignidad humana como pilar en la filosofía de derechos humanos.
 
-## Definición de Constitución en los Estados Unidos Mexicanos
-- En México, la Constitución establece que todas las personas gozarán de los derechos humanos reconocidos en ella y en tratados internacionales, con garantías para su protección.
+### Evolución en la Comprensión de los Derechos Humanos
+- De derechos limitados a ciudadanos a derechos universales.
 
-## Evolución de la Comprensión de los Derechos Humanos
-- Anteriormente, existían diferentes caminos para entender los derechos humanos, como garantías que solo aplicaban a nacionales y no a extranjeros.
+## Tipos y Ejemplos de Derechos Humanos
+### Clasificación de los Derechos Humanos
+- Derechos individuales y políticos, sociales, y derechos ambientales y tecnológicos.
 
-## Tipos de Derechos Humanos
-- Los derechos humanos se dividen en tres tipos principales: individuales y políticos, sociales, y derechos ambientales y relacionados con la tecnología (TIC's).
+### Derecho al Acceso a Internet: Un Derecho Humano Moderno
+- El acceso a Internet como reflejo de la importancia de los derechos en la era digital.
 
-## Ejemplo: Derecho al Internet
-- Un ejemplo de derecho humano es el acceso a Internet, que refleja la importancia de los derechos en la era digital.
+## Impacto y Responsabilidades
+### Influencia de los Derechos Humanos en Políticas Públicas
+- Impacto de los derechos humanos en la formulación de políticas públicas.
 
-## Influencia de los Derechos Humanos en Políticas Públicas
-- Los derechos humanos también tienen un impacto en la formulación de políticas públicas.
+### El Estado y sus Responsabilidades
+- Responsabilidad del gobierno en garantizar el acceso a los derechos humanos.
 
-## Papel del Científico de Datos
-- Los científicos de datos desempeñan un papel crucial en la promoción y protección de los derechos humanos, como en el acceso a Internet.
+### Cómo se Formulan las Políticas Públicas
+- Proceso de propuesta y aprobación de políticas públicas en el poder ejecutivo y legislativo.
 
-## El Estado y sus Responsabilidades
-- Cuando se menciona "Estado" en la ley, se hace referencia al gobierno, que tiene la responsabilidad de garantizar el acceso a los derechos humanos.
-
-## Cómo se Formulan las Políticas Públicas
-- Las políticas públicas son propuestas por el poder ejecutivo, y el presidente y su gabinete proponen un presupuesto que se aprueba o rechaza en la cámara de diputados.
-
+### Papel del Científico de Datos
+- Importancia de los científicos de datos en la promoción y protección de los derechos humanos.
