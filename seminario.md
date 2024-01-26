@@ -74,3 +74,8 @@ Gracias a los avances tecnologico(gpus, computo en la nube), Hinton crea las red
 # Examen
 Las NN no se pueden controlar, por lo tanto, esta AI afecta a ls derechos humanos; la IA simbolica(logica) SÍ se puede controlar.  
 
+
+## Resposabilidad jurídica
+1) Subjetiva = Voluntad -> impacto de forma egativa -> Sanción
+2) Objetiva = Se impacta de f. negativa -> Sanción / Pero la persona no participa de afectante
+3) Gobierno -> Responsabilidad patrimonial del Estado
