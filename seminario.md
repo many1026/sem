@@ -52,3 +52,14 @@
 
 ### Papel del Científico de Datos
 - Importancia de los científicos de datos en la promoción y protección de los derechos humanos.
+
+# Clase 2
+Autonomia: No influye el gobierno(ejecutivo)
+Tenemos 3 caminos por los cuales se puede ser autonomos: 
+1.- Gestión 2.-Tecnico 3.- Prespuestal
+Autonomia tecnica y presupuestal 
+Las resoluciones del INAI son autonomas
+
+## TIPOS DE AI
+Sistemas expertos decisionales
+
