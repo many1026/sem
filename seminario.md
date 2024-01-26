@@ -61,5 +61,15 @@ Autonomia tecnica y presupuestal
 Las resoluciones del INAI son autonomas
 
 ## TIPOS DE AI
-Sistemas expertos decisionales
 
+Sistemas expertos decisionales
+1956
+Surgen dos tipos de IA: Simbolico(que se basa en lo logico) y biologicos(NN, pero no hay un uso significativo, se cree que no va a ser util)
+1970
+Invierno de la IA
+Hinton pone de moda las redes neuronales y en 
+1996 
+Gracias a los avances tecnologico(gpus, computo en la nube), Hinton crea las redes convolucionales profundas
+
+#Examen
+Las NN no se pueden controlar, por lo tanto, esta AI afecta a ls derechos humanos; la IA simbolica(logica) SÍ se puede controlar.  
