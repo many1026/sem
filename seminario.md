@@ -79,3 +79,9 @@ Las NN no se pueden controlar, por lo tanto, esta AI afecta a ls derechos humano
 1) Subjetiva = Voluntad -> impacto de forma egativa -> Sanción
 2) Objetiva = Se impacta de f. negativa -> Sanción / Pero la persona no participa de afectante
 3) Gobierno -> Responsabilidad patrimonial del Estado
+
+## Tipos de razonamiento
+Deductivo:
+Inductivo:
+Abductivo: A partir de la observación del RESULTADO se toma una decisión del comportamiento general de las cosas
+Se usa para la toma de decisiones
