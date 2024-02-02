@@ -92,6 +92,7 @@ Estados Unidos: Biden(sistema presidencial: que se basa en la administracion pub
                 Crearon regulaciones 
 
 ## Riesgos
+[Parlamento Europeo enuncia los tipos de riesgos y se aprueban el 2 de Febrero de 2024](https://ec.europa.eu/commission/presscorner/detail/es/ip_23_6473)
 - Mínimo (Sistemas de recomendación; Filtros de cam;
 - Alto (Infraestructura pública; productos sanitarios; acceso a la educación; policía; migración; justicia; democracia; biometrica; categorización y reconocimiento de emociones)
 # 
