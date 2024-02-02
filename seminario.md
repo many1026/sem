@@ -85,3 +85,5 @@ Deductivo:
 Inductivo:
 Abductivo: A partir de la observación del RESULTADO se toma una decisión del comportamiento general de las cosas
 Se usa para la toma de decisiones
+# Clase 2 Febrero
+##     
