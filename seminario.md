@@ -95,6 +95,8 @@ Estados Unidos: Biden(sistema presidencial: que se basa en la administracion pub
 [Parlamento Europeo enuncia los tipos de riesgos y se aprueban el 2 de Febrero de 2024](https://ec.europa.eu/commission/presscorner/detail/es/ip_23_6473)
 - Mínimo (Sistemas de recomendación; Filtros de cam;
 - Alto (Infraestructura pública; productos sanitarios; acceso a la educación; policía; migración; justicia; democracia; biometrica; categorización y reconocimiento de emociones)
+- Inadmisible (Reconocimiento de emociones en el lugar de trabajo | Uso de biometricos en lugares públicos | Manipulación de Comportamiento | Puntos de clasificación social)
+- Riesgo específico de transparencia (Transparentar el uso de la IA; debe quedar claro que estas interactuando con una IA)
 # 
 Se violan Derechos humanos?
 Que tan autonomo?
