@@ -110,5 +110,6 @@ A partir del grado de autonomia de una IA elegimos que tanta regulacion tendrá.
 -      (+)        (-)         (+)            (-)          (+)          (-)                                   
 - Cada sistema politico(+) se degenera y termina siendo (-).
 - Este ciclo empieza por Monarquía
-
+# China
+[Ley  Inteligencia artificial](https://digichina.stanford.edu/work/translation-measures-for-the-management-of-generative-artificial-intelligence-services-draft-for-comment-april-2023/)
 
