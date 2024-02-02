@@ -101,7 +101,8 @@ Que tan autonomo?
 A partir del grado de autonomia de una IA elegimos que tanta regulacion tendrá.
 
 # Sistemas politicos según Polibio
-(Anaciclosis) [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Anaciclosis.jpg/440px-Anaciclosis.jpg]
+
+(Anaciclosis)[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Anaciclosis.jpg/440px-Anaciclosis.jpg]
 - Tirania | Aristocracia  | Oligarquia | Democracia | Oclocracia | Monarquia
 -   (-)                    (+)                     (-)                    (+)                    (-)                    (+)                
 - Cada sistema politico(+) se degenera y termina siendo (-).
