@@ -111,10 +111,10 @@ A partir del grado de autonomia de una IA elegimos que tanta regulacion tendrá.
 -      (+)        (-)         (+)            (-)          (+)          (-)                                   
 - Cada sistema politico(+) se degenera y termina siendo (-).
 - Este ciclo empieza por Monarquía
-# China
+# China La más rigurosa
 [Ley  Inteligencia artificial](https://digichina.stanford.edu/work/translation-measures-for-the-management-of-generative-artificial-intelligence-services-draft-for-comment-april-2023/)
 # Brasil
-[Ley IA]()
+[Ley IA](https://www.insideprivacy.com/emerging-technologies/brazils-senate-committee-publishes-ai-report-and-draft-ai-law/)
 # Israel
 [Ley IA](https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf)
 
