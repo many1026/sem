@@ -90,3 +90,7 @@ Se usa para la toma de decisiones
 Union Europea: Creando Actas(I.A, Entornos digitales, Comercio digital)
 Estados Unidos: Biden(sistema presidencial: que se basa en la administracion publica y lo hacen a traves de agencias de gobierno)
                 Crearon regulaciones 
+
+## Riesgos
+- Mínimo (Sistemas de recomendación; Filtros de cam;
+- Alto (Infraestructura pública; productos sanitarios; acceso a la educación; policía; migración; justicia; democracia; biometrica; categorización y reconocimiento de emociones)
