@@ -89,3 +89,4 @@ Se usa para la toma de decisiones
 ## Donde se están proponiendo nuevas regulaciones?
 Union Europea: Creando Actas(I.A, Entornos digitales, Comercio digital)
 Estados Unidos: Biden(sistema presidencial: que se basa en la administracion publica y lo hacen a traves de agencias de gobierno)
+                Crearon regulaciones 
