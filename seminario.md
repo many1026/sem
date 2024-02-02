@@ -94,6 +94,7 @@ Estados Unidos: Biden(sistema presidencial: que se basa en la administracion pub
 ## Riesgos
 - Mínimo (Sistemas de recomendación; Filtros de cam;
 - Alto (Infraestructura pública; productos sanitarios; acceso a la educación; policía; migración; justicia; democracia; biometrica; categorización y reconocimiento de emociones)
+  
 Se violan Derechos humanos?
 Que tan autonomo?
 
