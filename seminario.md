@@ -114,7 +114,7 @@ A partir del grado de autonomia de una IA elegimos que tanta regulacion tendrá.
 # China
 [Ley  Inteligencia artificial](https://digichina.stanford.edu/work/translation-measures-for-the-management-of-generative-artificial-intelligence-services-draft-for-comment-april-2023/)
 # Brasil
-(Ley IA)[]
-# Israel
 [Ley IA]()
+# Israel
+[Ley IA](https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf)
 
