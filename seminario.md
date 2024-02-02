@@ -81,9 +81,11 @@ Las NN no se pueden controlar, por lo tanto, esta AI afecta a ls derechos humano
 3) Gobierno -> Responsabilidad patrimonial del Estado
 
 ## Tipos de razonamiento
-Deductivo:
+Deductivo: 
 Inductivo:
 Abductivo: A partir de la observación del RESULTADO se toma una decisión del comportamiento general de las cosas
 Se usa para la toma de decisiones
 # Clase 2 Febrero
-##     
+## Donde se están proponiendo nuevas regulaciones?
+Union Europea: Creando Actas(I.A, Entornos digitales, Comercio digital)
+Estados Unidos: Biden(sistema presidencial: que se basa en la administracion publica y lo hacen a traves de agencias de gobierno)
