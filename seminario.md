@@ -102,7 +102,7 @@ A partir del grado de autonomia de una IA elegimos que tanta regulacion tendrá.
 
 # Sistemas politicos según Polibio
 - Tirania | Aristocracia  | Oligarquia | Democracia | Oclocracia | Monarquia
--   (-)          (+)           (-)          (+)          (-)          (+)      
+-   (-)                    (+)                     (-)                    (+)                    (-)                    (+)                
 - Cada sistema politico(+) se degenera y termina siendo (-).
 
 
