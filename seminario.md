@@ -88,9 +88,10 @@ Se usa para la toma de decisiones
 # Clase 2 Febrero
 ## Donde se están proponiendo nuevas regulaciones?
 Union Europea: Creando Actas(I.A, Entornos digitales, Comercio digital)
+
 Estados Unidos: Biden(sistema presidencial: que se basa en la administracion publica y lo hacen a traves de agencias de gobierno)
                 Crearon regulaciones 
-
+[Leyes ejecutivas de Biden](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/#:~:text=The%20Executive%20Order%20establishes%20new,around%20the%20world%2C%20and%20more.)
 ## Riesgos
 [Parlamento Europeo enuncia los tipos de riesgos y se aprueban el 2 de Febrero de 2024](https://ec.europa.eu/commission/presscorner/detail/es/ip_23_6473)
 - Mínimo (Sistemas de recomendación; Filtros de cam;
